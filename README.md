@@ -1,5 +1,5 @@
 <p align='center'><img alt="Banner" src="/images/bannerUIT.png" /></p>
-<h1 align='center'>PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - CS519.M11</h1
+<h1 align='center'>PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC<br>CS519.M11</h1>
 <br>
 <h4>Giới thiệu nhóm</h4>
 <p>
